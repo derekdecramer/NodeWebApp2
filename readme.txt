@@ -1,0 +1,1 @@
+This is an admin panel using react, node, and express. To run the code, go to the root project folder and type 'npm run start:dev' in the command line.
