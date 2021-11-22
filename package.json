@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start:dev": "concurrently \"npm start --prefix client\" \"node ./bin/www\"",
-    "start": "npm run build --prefix client && node ./bin/www"
+    "start": "node ./bin/www"
   },
   "engines": {
     "node": "14.17.6",
